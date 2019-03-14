@@ -1,2 +1,2 @@
-# Tensorflow-Deep-SNN
-Tensorflow-Deep-SNN
+# Tensorflow-SNN
+Spiking Neural Networks in Tensorflow
