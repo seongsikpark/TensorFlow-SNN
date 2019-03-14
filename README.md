@@ -1,2 +1,2 @@
 # Tensorflow-SNN
-Spiking Neural Networks in Tensorflow
+Spiking Neural Networks in Tensorflow (eager mode)
