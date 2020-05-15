@@ -1,8 +1,8 @@
 # TensorFlow-SNN
-Spiking Neural Networks in TensorFlow (eager mode)
+Deep Spiking Neural Networks in TensorFlow (eager mode, TF-V1)
 
 
-# Nerual Coding
+# Neural Coding
 Rate coding
 Phase coding
 Burst coding
